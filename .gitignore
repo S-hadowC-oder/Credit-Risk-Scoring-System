@@ -1,0 +1,41 @@
+# Python Environment 
+venv/ 
+.venv/ 
+env/ 
+*.pyc 
+__pycache__/ 
+*.egg-info/ 
+data/raw/ 
+data/processed/ 
+*.csv 
+*.parquet 
+*.xlsx 
+*.zip 
+*.gz 
+ 
+# Secrets 
+.env 
+*.key 
+ 
+.env 
+*.key 
+ 
+ 
+ 
+# IDE 
+.vscode/ 
+.antigravity/ 
+.idea/ 
+Thumbs.db 
+ 
+# Jupyter 
+.ipynb_checkpoints/ 
+ 
+# Model Artifacts 
+*.pkl 
+*.joblib 
+*.model 
+ 
+# Logs 
+*.log 
+logs/ 
