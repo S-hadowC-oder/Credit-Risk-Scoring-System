@@ -42,3 +42,8 @@ logs/
 .env 
 venv/ 
 data/raw/ 
+
+
+#Agend
+claude.md/
+gemini.md/
